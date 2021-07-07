@@ -1,0 +1,2 @@
+# Exercicio-Loja
+Exercicio / Loja
